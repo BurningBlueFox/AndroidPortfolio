@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Constraint Layout Project</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="titleText">Aprendendo sobre Android Layouts</string>
+</resources>
